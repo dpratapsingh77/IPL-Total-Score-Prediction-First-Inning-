@@ -1,7 +1,7 @@
 # IPL-Total-Score-Prediction-
 ## Machine Learning Project that predicts the IPL match score (First Inning only).
 
-! [IPL]('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnbctv18.com%2Fhealthcare%2Fipl-2020-suspended-till-further-notice-bcci-says-game-will-commence-when-its-safe-5706651.htm&psig=AOvVaw1GADIv7y-deWUba7e1InTk&ust=1596034951122000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC_mNmb8OoCFQAAAAAdAAAAABAD')
+![IPL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnbctv18.com%2Fhealthcare%2Fipl-2020-suspended-till-further-notice-bcci-says-game-will-commence-when-its-safe-5706651.htm&psig=AOvVaw1GADIv7y-deWUba7e1InTk&ust=1596034951122000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC_mNmb8OoCFQAAAAAdAAAAABAD)
 
 ## Dataset
 Data Source : Kaggle.com
