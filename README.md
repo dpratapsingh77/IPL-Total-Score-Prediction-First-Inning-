@@ -2,7 +2,7 @@
 ## Machine Learning Project that predicts the IPL match score (First Inning only).
 
 <p align="center">
-  <img src="https://images.cnbctv18.com/wp-content/uploads/2020/02/IPL2020.jpg" width="350" title="hover text">
+  <img src="https://images.cnbctv18.com/wp-content/uploads/2020/02/IPL2020.jpg"  title="hover text">
 </p>
 
 ## Dataset
